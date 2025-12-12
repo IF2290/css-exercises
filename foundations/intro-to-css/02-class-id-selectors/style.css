@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.e{
+    background-color: rgb(255, 87, 87);
+    font-family: "Verdana, DejaVu, sans-serif";
+}
+.d{
+    font-size: 24px;
+}
+#hello{
+    color:rgb(0, 17, 255);
+    font-size: 36px;
+}
+#bro{
+    background-color: rgb(145, 255, 102);
+    font-size: 24px;
+    font-weight: bold;
+}
